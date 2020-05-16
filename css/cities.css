@@ -1,0 +1,31 @@
+div.tools {
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+}
+
+#summary {
+    font-size: 28px;
+    text-align: left;
+    margin-top: 60px;
+    margin-left: 20px;
+}
+
+#heading {
+    font-size: 30px;
+    text-align: center;
+    float: left;
+    margin-left: 10px;
+    margin-bottom: 15px;
+    background-color: #eaecef;
+}
+
+#radiusLabel {
+    font-family: Arial;
+    font-size: 16px;
+    text-align: left;
+}
+
+p {
+    line-height: 0.5;
+}

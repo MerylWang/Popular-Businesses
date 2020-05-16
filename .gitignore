@@ -1,0 +1,7 @@
+node_modules/
+__pycache__/
+.git/
+
+.DS_Store
+yelp_dataset/ph_rest_distance.csv
+yelp_dataset/ph_rest_distance.json
