@@ -3,3 +3,5 @@
 Dataset: Yelp Dataset
 
 https://merylwang.github.io/Popular-Businesses/
+
+Made with teammates: Stuti Vishwabhan, Renbin Liu
